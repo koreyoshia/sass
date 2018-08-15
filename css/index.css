@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/*多行注释*/
+/*!强制注释（压缩之后还在）*/
+#obox {
+  width: 1px;
+}
+
+.div {
+  color: #ff0;
+}
+.div .box1 {
+  color: aqua;
+}
+.div:hover {
+  font-size: 20px;
+}
+.div-header {
+  font-weight: bolder;
+}
+
+.div2 {
+  background-color: yellow;
+  background-repeat: no-repeat;
+  background-image: url("xx.png");
+  border-left-color: blueviolet;
+  border-right-color: chocolate;
+}
+
+.div3 {
+  font-size: 16px;
+}
+
+.div4, .div7 {
+  font-weight: bolder;
+}
+
+.div5 {
+  width: 100px;
+  height: 200px;
+}
+
+.div6 {
+  width: 100px;
+  height: 2000px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.div7 {
+  color: aliceblue;
+}
+
+.div8 {
+  width: 100px;
+}
+
+.div9 {
+  height: 100px;
+}
+
+.div10 {
+  height: 200px;
+}
+
+.div11 {
+  height: 1000px;
+}
+
+.div12 {
+  width: 50px;
+  font-size: 10px/10px;
+}
+
+.div13 {
+  background-image: url("aa.jpg");
+}
+
+.div14 {
+  color: #6666ff;
+}
+
+.div15 {
+  color: #000099;
+}
+
+.div16 {
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.div17 {
+  color: rgba(0, 0, 0, 0.2);
+}
+
+.div18 {
+  color: #000;
+}
+
+.div19 {
+  color: blue;
+}
+
+.div-content-1 {
+  width: 1px;
+}
+
+.div-content-2 {
+  width: 2px;
+}
+
+.div-content-3 {
+  width: 3px;
+}
+
+.div-content-4 {
+  width: 4px;
+}
+
+.div-content-5 {
+  width: 5px;
+}
+
+/*# sourceMappingURL=index.css.map */
